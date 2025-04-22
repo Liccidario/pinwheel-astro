@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Pinwheel Astro",
+    "title": "DLTech",
     "base_url": "https://pinwheel-astro.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
@@ -8,7 +8,7 @@
     "logo": "/images/logo.png",
     "logo_width": "147",
     "logo_height": "31",
-    "logo_text": "Pinwheel"
+    "logo_text": "DLTech"
   },
 
   "settings": {
@@ -17,11 +17,11 @@
   },
 
   "call_to_action": {
-    "title": "Helping teams in the world with focus",
-    "description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
+    "title": "La tua guida settimanale al mondo tech",
+    "description": "Ogni settimana ti inviamo risorse pratiche per imparare, scegliere e smanettare nel mondo hardware. Spiegato bene, anche se parti da zero.",
     "button": {
-      "label": "Download The Theme",
-      "link": "https://themefisher.com/astro-themes/pinwheel-astro"
+      "label": "Iscriviti alla Newsletter",
+      "link": ""
     }
   },
 
