@@ -1,12 +1,13 @@
 ---
 banner:
-  title: "Scale design & dev operations with Avocode Enterprise"
-  content: "A fully integrated suite of authentication & authoriz products, Stytch’s platform removes the headache of."
-  image: /images/banner-img.png
+  title: "OFFICINA DIGITALE: Assembliamo sogni, ripariamo realtà"
+  content: "Dalla scelta dei componenti all'assistenza post-vendita, creiamo esperienze informatiche personalizzate per giocatori e professionisti"
+
+  image: /images/logo.png
   button:
     enable: true
-    label: Download The Theme
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
+    label: Richiedi un Preventivo
+    link: "https://transparent-dracorex-1f7.notion.site/1c57fdfb6a66806e9587c81cd98294de?pvs=105"
 
 ##key features
 key_features:
@@ -37,12 +38,7 @@ key_features:
     - icon: "bell" #icon package react-feather-icon
       title: Sound Amplifier
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "map" #icon package react-feather-icon
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "monitor" #icon package react-feather-icon
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    
 
 #service
 service:
@@ -61,27 +57,27 @@ service:
         image: "/images/sells-by-country.png"
 
   our_service:
-    - title: Accept payments any country in this whole universe
-      desctiption: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed
+    - title: Ti aiutiamo a fare le scelte giuste (e a farle funzionare)
+      desctiption: Servizi pensati per chi vuole un PC pronto, potente e su misura. Senza stress, con il nostro supporto tecnico sempre al tuo fianco.
       image: "/images/collaboration.png"
       list:
         - Supporting more than 119 country world
         - Open transaction with more than currencies
         - Customer Service with 79 languages
-    - title: Accountability that works for you
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+    - title: Live Tech - ogni Mercoledì, in diretta con il nostro team
+      description: Ogni settimana testiamo componenti, montiamo build e rispondiamo alle vostre domande, il tutto con il nostro stile diretto (e senza prenderci troppo sul serio). Se cerchi info utili e vuoi farti anche due risate, ci vediamo in live..
       video:
         thumbnail: "/images/intro-thumbnail.png"
-        video_id: "g3-VxLQO7do"
+        video_id: "7kC4TLPM0W0"
       button:
         enable: true
-        label: Know About Us
-        link: "#"
+        label: Seguici su YouTube
+        link: "https://www.youtube.com/@LicciDario_com"
 
 #testimonial
 testimonial:
-  title: Our customers have nice things to say about us
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  title: Cosa dicono di noi!
+  description: Le parole di chi ha vissuto l’esperienza DL - feedback reali, zero filtri.
   testimonial_list:
     - author: David Cameron
       avatar: "/images/users/user-5.png"
